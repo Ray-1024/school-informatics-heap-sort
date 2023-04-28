@@ -1,0 +1,107 @@
+canvas{
+	border-radius: 15px;
+	border:2px;
+	border-color: #0F3057;
+	border-style:dashed;
+}
+hr{
+	max-width: 70%;
+}
+
+.tdoutput{
+	width:65px;
+	border-radius: 8px;
+	border-style: solid;
+	border-color:#0F3057;
+	border-width:2px;
+	padding:3px;
+	display: inline-block;
+	background-color: #FACA9B;
+}
+.tdoutputarr{
+	width:65px;
+	border-radius: 8px;
+	border-style: solid;
+	border-color:#0F3057;
+	border-width: 2px;
+	padding:3px;
+	display: inline-block;
+	background-color: #97CE68;
+}
+pre{
+	padding:10px;
+	width:50%;
+	border-radius: 8px;
+	border:2px;
+	border-color: #0F3057;
+	border-style:dashed;
+}
+
+input {
+	font-size: 13px;
+	padding: 6px 0 4px 10px;
+	border: 1px solid #0F3057;
+	background: #F6F6f6;
+	border-radius: 8px;
+}
+
+
+body{
+	background-color: #A5CAE6;
+}
+
+
+table{
+	width:100%;
+}
+
+
+.centertd{
+	width:75%;
+	background-color: #F6F7F2;
+	border-radius: 15px;
+	border-style:solid;
+	border-color:#F6F7F2;
+}
+
+
+h1{
+	color:#9F0088;
+}
+
+
+h2{
+	color:#17B090;
+	text-align: center;
+}
+
+
+h3{
+	color:#1D2247;
+	padding:0px 0px 0px 10px;
+}
+
+
+p{
+	color:#581620;
+	padding:0px 20px 0px 20px;
+	text-align:justify;
+}
+
+
+ul{
+	list-style-image: url("mark.png");
+}
+
+
+button {
+    background-color: #00587A; /* Green */
+    border: none;
+    color: white;
+    padding: 5px 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	border-radius: 8px;
+}
